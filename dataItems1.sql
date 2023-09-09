@@ -2565,7 +2565,7 @@ INSERT INTO `tensorflow_issue_data` VALUES ('14542', '[\'stat:awaiting tensorflo
 INSERT INTO `tensorflow_issue_data` VALUES ('14800', '[\'stat:contributions welcome\', \'type:bug\']', '2017-11-22T16:13:41Z', '2017-12-11T01:44:54Z', '[14816]', 'Memory bug');
 INSERT INTO `tensorflow_issue_data` VALUES ('14819', '[\'stat:community support\', \'type:bug\']', '2017-11-23T04:24:01Z', '2017-12-11T02:44:45Z', '[14831]', 'Algorithm design bug');
 INSERT INTO `tensorflow_issue_data` VALUES ('14871', '[\'stat:community support\', \'type:bug\']', '2017-11-25T00:01:43Z', '2018-03-08T00:21:04Z', '[14872]', 'Processor bug');
-INSERT INTO `tensorflow_issue_data` VALUES ('7404', '[\'type:docs-bug\', \'stat:contributions welcome\']', '2017-02-10T03:14:10Z', '2018-03-29T18:11:56Z', '[18052]', 'Code bug');
+INSERT INTO `tensorflow_issue_data` VALUES ('7404', '[\'type:docs-bug\', \'stat:contributions welcome\']', '2017-02-10T03:14:10Z', '2018-03-29T18:11:56Z', '[18052]', 'Documentation bug');
 INSERT INTO `tensorflow_issue_data` VALUES ('14932', '[\'stat:contributions welcome\', \'type:bug\']', '2017-11-28T09:51:31Z', '2018-12-05T22:56:49Z', '[14939]', 'Data bug');
 INSERT INTO `tensorflow_issue_data` VALUES ('14951', '[\'type:docs-bug\', \'stat:awaiting tensorflower\']', '2017-11-28T19:16:21Z', '2017-12-10T20:14:32Z', '[14984]', 'Documentation bug');
 INSERT INTO `tensorflow_issue_data` VALUES ('9827', '[\'type:docs-bug\', \'stat:contributions welcome\']', '2017-05-11T05:16:44Z', '2017-12-18T21:52:45Z', '[15394]', 'Documentation bug');
